@@ -16,3 +16,6 @@ python3
 * html_download html 下载器
 * html_parser html 解析器
 * html_output 输出
+
+### 待完善问题
+    没有异步，某个请求超时延迟时，就会卡住。待学习后，再完善。
